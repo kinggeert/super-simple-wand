@@ -1,0 +1,6 @@
+name: Me.kinggeert.super_siple_wand
+version: @version@
+main: super_simple_wand.me.kinggeert.super_siple_wand.Main
+api-version: 1.16
+authors: [ kinggeert ]
+description: super simple wand
